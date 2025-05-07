@@ -1,20 +1,47 @@
 # cs2-eai-decalpack-polishpolitics
 
 ## Description
-Cities Skylines 2 mod. This pack adds polish political ads, mostly from 2025 presidential elections. Great addition if you're building a polish city or town.
+This is a Cities: Skylines II mod that adds Polish political ads, primarily from the 2025 presidential elections. It's a great addition if you're building a Polish city or town in the game.
 
 ## Requirements
-You need to have Extra Asset Importer mod installed. https://mods.paradoxplaza.com/mods/80529/Windows
+You need to have the [Extra Asset Importer mod](https://mods.paradoxplaza.com/mods/80529/Windows) installed.
 
-## Automatic installation
-  1. Download the repository and unzip it.
-  2. Run the install.bat script.
-  3. If you encounter an error, install manually.
+---
 
-## Manual installation
-  1. Download the repository and unzip it.
-  2. Locate the game folder, usually at C:/users/username/AppData/LocalLow/Colossal Order/Cities Skylines II
-  3. In ModsData directory, find the Extra Asset Importer folder.
-  4. Create a new folder: CustomDecals (with exact name). DO NOT ENTER DATABASE OR TOUCH OTHER FILES.
-  5. Copy WallDecor into CustomDecals.
-  6. Play the game.
+## Automatic Installation
+1. Download the repository and unzip it.
+2. Run the `install.bat` script.
+3. If you encounter an error, follow the manual installation steps below.
+
+## Manual Installation
+1. Download the repository and unzip it.
+2. Locate the game folder, usually at `C:/Users/username/AppData/LocalLow/Colossal Order/Cities Skylines II`.
+3. In the `ModsData` directory, enter the `ExtraAssetsImporter` folder.
+4. Create a new folder named `CustomDecals` (exact name, case-sensitive). **Do not modify the database or other files.**
+5. Copy the `WallDecor` folder into `CustomDecals`.
+6. Launch the game and enjoy the decals.
+
+---
+
+# cs2-eai-decalpack-polishpolitics (polska instrukcja)
+
+## Opis
+Ten mod do Cities: Skylines II dodaje polskie reklamy polityczne, głównie z wyborów prezydenckich 2025 roku. To świetne uzupełnienie, jeśli budujesz polskie miasto lub miasteczko w grze.
+
+## Wymagania
+Potrzebujesz mieć zainstalowany mod [Extra Asset Importer](https://mods.paradoxplaza.com/mods/80529/Windows).
+
+---
+
+## Instalacja automatyczna
+1. Pobierz repozytorium i rozpakuj je.
+2. Uruchom skrypt `install.bat`.
+3. Jeśli wystąpi błąd, wykonaj instalację ręczną według poniższych kroków.
+
+## Instalacja ręczna
+1. Pobierz repozytorium i rozpakuj je.
+2. Znajdź folder gry, zwykle znajduje się w `C:/Users/username/AppData/LocalLow/Colossal Order/Cities Skylines II`.
+3. W katalogu `ModsData` znajdź folder `ExtraAssetsImporter`.
+4. Utwórz w nim nowy folder o nazwie `CustomDecals` (dokładna nazwa, z uwzględnieniem wielkości liter). **Nie modyfikuj `Database` ani innych plików.**
+5. Skopiuj folder `WallDecor` do `CustomDecals`.
+6. Zaspam swoje miasto obrzydliwymi twarzami polityków.
