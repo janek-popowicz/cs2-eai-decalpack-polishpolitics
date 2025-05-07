@@ -23,7 +23,7 @@ You need to have the [Extra Asset Importer mod](https://mods.paradoxplaza.com/mo
 
 ---
 
-# cs2-eai-decalpack-polishpolitics (polska instrukcja)
+# polska instrukcja
 
 ## Opis
 Ten mod do Cities: Skylines II dodaje polskie reklamy polityczne, głównie z wyborów prezydenckich 2025 roku. To świetne uzupełnienie, jeśli budujesz polskie miasto lub miasteczko w grze.
